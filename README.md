@@ -23,11 +23,23 @@ Analizar antes de hacer · respetar cómo se viene trabajando · reutilizar al m
 
 ## Instalación
 
-- **Claude (web / desktop / Cowork):** subí el archivo `.skill` en Configuración → Capacidades → Skills, o guardala desde la tarjeta de propuesta.
-- **Claude Code:** copiá la carpeta a `~/.claude/skills/plan-before-build/`.
+- **Claude (web, escritorio o Cowork):** comprimí en un `.zip` una carpeta `plan-before-build` que tenga adentro el `SKILL.md`, y subila en la sección de Skills de la configuración.
+- **Claude Code:** cloná este repositorio en `~/.claude/skills/plan-before-build/`.
+
+## Cómo se hizo
+
+No programo. Construyo con Claude Code: yo defino qué hay que resolver, para quién y cómo me doy cuenta de que funciona; Claude investiga, escribe y prueba. Esta skill es ese reparto de tareas puesto por escrito, y la armé con Claude a partir de las fuentes de abajo.
+
+## Un ejemplo real
+
+El [PLAN.md de A la Luz del Fogón](https://github.com/bruneskycoder/ciclo-de-sueno/blob/main/PLAN.md) tiene el formato que deja esta skill: nivel de profundidad, objetivo, lo que queda afuera, pasos verificables y un registro de decisiones y desvíos. Incluye el momento en que el plan apuntaba al lugar equivocado y hubo que rehacerlo.
 
 ## Basado en
 
 - [Claude Code best practices](https://code.claude.com/docs/en/best-practices) (Anthropic): explorar → planificar → implementar → verificar; el patrón de entrevista.
 - [GitHub spec-kit](https://github.com/github/spec-kit): separar qué/por qué de cómo.
 - [obra/superpowers — brainstorming](https://github.com/obra/superpowers): preguntas con opciones, enfoques con trade-offs, YAGNI, aprobación antes de codear.
+
+## Licencia
+
+CC-BY-4.0: libre para usar, modificar y reutilizar con atribución.
