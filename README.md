@@ -28,7 +28,7 @@ Analizar antes de hacer · respetar cómo se viene trabajando · reutilizar al m
 
 ## Cómo se hizo
 
-No programo. Construyo con Claude Code: yo defino qué hay que resolver, para quién y cómo me doy cuenta de que funciona; Claude investiga, escribe y prueba. Esta skill es ese reparto de tareas puesto por escrito, y la armé con Claude a partir de las fuentes de abajo.
+Tengo bases de programación, de la facultad y autodidactas, aunque nunca me dediqué a ella. Construyo con Claude Code y no practico *vibe coding*: yo defino qué hay que resolver, para quién y cómo me doy cuenta de que funciona; Claude investiga, escribe y prueba. Esta skill es ese reparto de tareas puesto por escrito, y la armé con Claude a partir de las fuentes de abajo.
 
 ## Un ejemplo real
 
